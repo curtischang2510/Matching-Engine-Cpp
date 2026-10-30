@@ -1,0 +1,8 @@
+[project]
+name = "market-data-feeder"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "protobuf>=6.32.0",
+    "ruff>=0.15.21",
+]
