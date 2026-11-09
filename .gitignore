@@ -1,0 +1,36 @@
+/market-data/
+.DS_Store
+.idea/
+/build-instruments/
+/cmake-build-*/
+/V3/Instrument Runs/
+*.trace/
+/profile.json.gz
+/commands.md
+/V3/matching_engine_v3
+/V3/matching_engine_v3.dSYM/
+/V3/matching_engine_v3_1
+/V3/matching_engine_v3_1.dSYM/
+/V4/matching_engine_v4
+/V4/matching_engine_v4.dSYM/
+/V4/matching_engine_v4_0
+/V4/matching_engine_v4_0.dSYM/
+/V4/matching_engine_v4_1
+/V4/matching_engine_v4_1.dSYM/
+/V5/matching_engine_v5
+/V5/matching_engine_v5.dSYM/
+/V5/matching_engine_v5_0
+/V5/matching_engine_v5_0.dSYM/
+/V5/matching_engine_v5_1
+/V5/matching_engine_v5_1.dSYM/
+/V5/matching_engine_v5_2
+/V5/matching_engine_v5_2.dSYM/
+/V5/matching_engine_v5_4
+/V5/matching_engine_v5_4.dSYM/
+/test-data/*.txt
+
+# Generated or downloaded datasets (patterns without a slash apply recursively).
+*_data.txt
+*.csv
+*.xlsx
+*.zip
